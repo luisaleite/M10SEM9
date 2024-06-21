@@ -1,10 +1,14 @@
 # M10SEM9
 
 # Pré-requisitos
-Para utilizar o Terraform, é necessário atender a alguns pré-requisitos. Em sua máquina, você deve ter:
+Para fazer esse tutorial é necessário atender a alguns pré-requisitos. Como em sua máquina, você deve ter:
+
     - [Terraform CLI](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+    
     - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+    
     - Uma conta da AWS (no meu caso, utilizamos a AWS Academy)
+    
 Além disso, precisamos das credenciais da conta da AWS: aws_access_key_id, aws_secret_access_key e aws_session_token. 
 
 # Passo a Passo
