@@ -47,3 +47,5 @@ terraform validate
 terraform apply
 ```
 Nesse comando ao final também aparece a opção de destruir a instância criada.
+
+As imagens referentes a esse tutorial se encontra na pasta assets.
